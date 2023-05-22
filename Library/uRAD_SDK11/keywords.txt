@@ -1,0 +1,5 @@
+uRAD_SDK11	KEYWORD1
+loadConfiguration	KEYWORD2
+detection	KEYWORD2
+turnON	KEYWORD2
+turnOFF	KEYWORD2
