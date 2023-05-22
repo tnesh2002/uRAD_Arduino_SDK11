@@ -1,0 +1,1 @@
+Development software version SDK v1.1 only works for Arduino uRAD models with serial number higher than SN1942.
